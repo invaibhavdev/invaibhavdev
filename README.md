@@ -22,7 +22,7 @@ I build product systems at work. On the side, I build things I wish existed.
 
 **Orion** — Figma-to-campaign HTML engine for marketing teams. Converts visual references into responsive campaign pages via AI model generation & repair, while assembling interactive behavior through a deterministic extension system — ensuring executable logic comes strictly from reviewed code.
 
-**[Coduku](https://github.com/invaibhavdev/vyomkit-codoku)** — Algorithm problems that feel like short puzzles instead of interview prep. Mobile-first PWA with an AI coach (GPT-4.1-mini via OpenRouter), progressive hints, and step-by-step solution walkthroughs. [Try it →](https://coduku.vercel.app)
+**[Coduku](https://github.com/invaibhavdev/vyomkit-codoku)** — Algorithm problems that feel like short puzzles instead of interview prep. Mobile-first PWA with an AI coach, progressive hints, and step-by-step solution walkthroughs. [Try it →](https://coduku.vercel.app)
 
 **[InvoiceGo](https://invoicegohq.com)** — Local-first free document suite for freelancers: invoices, estimates, and receipts [Try it →](https://invoicegohq.com)
 
