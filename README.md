@@ -2,7 +2,7 @@
   <samp>
     <a href="https://linkedin.com/in/vaibhav-misra">linkedin</a> · 
     <a href="https://medium.com/code-over-coffee">blog</a> · 
-    <a href="https://github.com/invaibhavdev">github</a> · 
+    <a href="https://github.com/vmlgtm">github</a> · 
     <a href="https://coduku.vercel.app">coduku</a> · 
     <a href="https://ko-fi.com/codeovercoffee">ko-fi</a>
   </samp>
